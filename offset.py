@@ -10,7 +10,7 @@ games = {
     "9": ("Counter Strike", "https://drive.usercontent.google.com/download?id=1s6VX1D8PU0pd0izJAH3ihn-jb5aBWltc&export=download&authuser=0&confirm=t&uuid=3345219b-d735-470f-ad48-727a1607a5eb&at=AIrpjvO2zlolMNWjdMnHySsAt7Ip%3A1739511056448", "online", "VIP"),
     "10": ("Farlight", "https://drive.usercontent.google.com/download?id=10SenBHPAMEHocA-WbA4gTxSI6ajkDLTq&export=download&authuser=0&confirm=t&uuid=4c848684-e17d-4354-9050-8eff26b3fbef&at=AIrpjvPz4AksvCq3EGYvCnq0ceMh%3A1739511074671", "online", "VIP"),
     "11": ("Arena", "https://drive.usercontent.google.com/download?id=1gt2WHKyn6nXxmB6Nw9nnWhsLY5oHmxiV&export=download&authuser=0&confirm=t&uuid=88ad0d6f-856d-4152-8796-994f0618b0b1&at=AEz70l5UGDULHxSXxzZnSOYrj-3o%3A1741618928608", "online", "VIP"),
-    "12": ("FragPunk - Aim", "https://drive.usercontent.google.com/download?id=1RZ49dRJxEM4cWRnyr6Nk77HR2jSdUyjh&export=download&authuser=0&confirm=t&uuid=5e1ed1a6-5c6e-42ee-8ddf-1002e67779ca&at=AEz70l5vDIlNDMPdONyxCejC-uJL%3A1741916498338", "offline", "VIP"),
+    "12": ("FragPunk - Aim", "https://drive.usercontent.google.com/download?id=1RZ49dRJxEM4cWRnyr6Nk77HR2jSdUyjh&export=download&authuser=0&confirm=t&uuid=5e1ed1a6-5c6e-42ee-8ddf-1002e67779ca&at=AEz70l5vDIlNDMPdONyxCejC-uJL%3A1741916498338", "online", "VIP"),
     "13": ("Squad", "https://drive.usercontent.google.com/download?id=1Supe4ntHMvXLpYL_m2VvAIfUWbzPU4Tf&export=download&authuser=0&confirm=t&uuid=45124f72-4458-418d-9bee-8ae1acb9ad05&at=AIrpjvOazInNkvpSnr8QCkDe9gvS%3A1739511119824", "online", "VIP"),
     "14": ("Spoofer", "https://drive.usercontent.google.com/download?id=1g_BD8JfN2N7rdQO14QRPOMWHqA1uwBP6&export=download&confirm=t&uuid=cb5aa218-7a0d-4433-a784-6075d5ed87fb", "online", "VIP")
 }

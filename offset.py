@@ -1,5 +1,5 @@
 games = {
-    "1": ("Valorant - Aim", "https://drive.usercontent.google.com/download?id=1DX8UssYGJTZ7yfcj-HtBMuq8ByQUPBps&export=download&authuser=0&confirm=t&uuid=6c19f15c-aa99-43f4-aef9-e39cd5adeccc&at=AIrpjvPJl9rgpnNcjZ_4UUrHHDRu%3A1739510838774", "online", "VIP"),
+    "1": ("Valorant - Aim", "https://drive.usercontent.google.com/download?id=1DX8UssYGJTZ7yfcj-HtBMuq8ByQUPBps&export=download&confirm=t&uuid=baa1c278-c720-4671-a9b7-58c50e775e1a&at=AEz70l7zzQ1m7wdofFn-8nNiLPol%3A1743394718644", "online", "VIP"),
     "2": ("Valorant - Memory", "https://drive.usercontent.google.com/download?id=1wPyLEwhm1Kyn79PbaiogzZncYIgfUpJo&export=download&authuser=0&confirm=t&uuid=e1bd8750-15f3-4112-a491-c897970c86aa&at=AEz70l6scXjEfv8ptZAShB6EOls9%3A1741749642803", "online", "VIP"),
     "3": ("Fortnite", "https://drive.usercontent.google.com/download?id=1hJBpRqjK5I_4MDC6oBLlJSlVRfopr4n_&export=download&authuser=0&confirm=t&uuid=76daa3a8-3d08-4f50-a648-ac0790d4e2bc&at=AIrpjvOPAPsIqJOQw8mxfp2SYXl8%3A1739510907339", "online", "VIP"),
     "4": ("DayZ", "https://drive.usercontent.google.com/download?id=1uZPURz5D1JGY3AobtHvSTrAilzLwAbEf&export=download&authuser=0&confirm=t&uuid=f176bf79-ec5c-458d-a3e3-0b496977eec8&at=AEz70l7bPe-J2BsVxtq2ZfSGI1Ot%3A1741990822582", "online", "VIP"),
